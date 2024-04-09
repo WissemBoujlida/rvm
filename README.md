@@ -1,4 +1,4 @@
-# Smart Esprit - Academic project
+# Reverse Vending Machine (RVM) - Academic project
 
 For the fourth semester project, I developed a prototype of a reverse vending machine capable of classifying recyclable items according to their container, volume and brand. Users connected through a mobile application can track their recycling history and rewards. This allows us to collect data and build real time dashboards and statistics.
 
