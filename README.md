@@ -4,7 +4,7 @@ For the fourth semester project, I developed a prototype of a reverse vending ma
 
 # Technologies used to build the project
 
-Python, Django, Flask, TensorFlow, Tkinter, PostgreSQL
+Python, TensorFlow, Opencv, Django, PostgreSQL, Flask, Tkinter, 
 
 # Related repositories
 - [rvm-AI](https://github.com/WissemBoujlida/rvm-AI) 
